@@ -1,0 +1,4 @@
+baseURL = 'http://51.120.24.86/'
+languageCode = 'en-us'
+title = 'Basaleh Mechanic'
+theme = 'ananke'

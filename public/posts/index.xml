@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Basaleh Mechanic</title>
-    <link>https://example.org/posts/</link>
+    <link>http://51.120.24.86/posts/</link>
     <description>Recent content in Posts on Basaleh Mechanic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://51.120.24.86/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basaleh Mechanic</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://51.120.24.86/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://51.120.24.86/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Whelcome to our website! We are Basaleh Mechanic, a family-owned and operated garage located in Jeddah, Saudi Arabia. We specialize in providing top-notch automotive services to our customers, and we are committed to delivering the best possible experience to our clients.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;www.linkedin.com/in/salman-basaleh-bb68ba263&#34;&gt;Salman basaleh linkedin &lt;/a&gt; | 2236916&lt;/p&gt;</description>
     </item>
   </channel>
